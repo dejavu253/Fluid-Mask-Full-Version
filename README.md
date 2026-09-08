@@ -239,3 +239,6 @@ This repository serves as the official landing page for Fluid Mask. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Fluid Mask today!**
+
+---
+**Last updated:** 2026-09-08 19:23:28 UTC
